@@ -1,6 +1,0 @@
-CODED BY MJ --Brand Colors
-
-
- main heading color: #046307;
- background-color:   #0D1717;
- secondary color: color:  #f0e5d3;
