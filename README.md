@@ -1,7 +1,7 @@
 Hi 👋 My name is Miracle Justice
 ================================
 
-Front-End Developer || Freelancer
+Front-End Developer 
 ---------------------------------
 
 As a front-end developer specializing in creating innovative promotional webpages, e-commerce platforms, and landing pages, I excel at replicating UI/UX designs and transforming concepts into fully functional, visually appealing digital interfaces, with proficiency in modern technologies and programming languages.
