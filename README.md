@@ -1,8 +1,9 @@
 # Hi 👋 My name is Miracle Justice
 
-## Front-End Developer || Freelancer
+## Full Stack Web Developer || Freelancer
 
-As a front-end developer specializing in creating innovative CRUD applications, e-commerce websites, and landing pages, I excel at replicating UI/UX designs and transforming concepts into responsive websites and full-stack applications, delivering visually appealing digital experiences. I am proficient in modern technologies and programming languages.
+As a full-stack web developer specializing in innovative CRUD applications, e-commerce websites, and landing pages, I excel at replicating UI/UX designs and transforming concepts into responsive, full-featured applications. I’m passionate about delivering visually appealing and highly functional digital experiences.
+ 
 
 - 🌍  I'm based in Lagos, Nigeria
 - 🖥️  See my portfolio at [Miracle Ibharokhonre](https://miracleibharokhonre.com)
