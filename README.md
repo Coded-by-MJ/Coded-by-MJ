@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer || Freelancer
 
-As a full-stack web developer specializing in innovative CRUD applications, e-commerce websites, and landing pages, I excel at replicating UI/UX designs and transforming concepts into responsive, full-featured applications. I’m passionate about delivering visually appealing and highly functional digital experiences.
+<div class="ql-align-justify">As a full-stack web developer, I specialize in building high-impact CRUD applications, e-commerce platforms, and landing pages that not only replicate UI/UX designs but drive real user engagement and revenue. My applications have successfully converted visitors into active users and paying customers, demonstrating a strong focus on both technical excellence and measurable business results.</div>
  
 
 - 🌍  I'm based in Lagos, Nigeria
