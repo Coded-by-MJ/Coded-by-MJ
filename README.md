@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer
 
-<div class="ql-align-justify">As a full-stack web developer, I specialize in building high-impact CRUD applications, e-commerce platforms, and landing pages that not only replicate UI/UX designs but drive real user engagement and revenue. My applications have successfully converted visitors into active users and paying customers, demonstrating a strong focus on both technical excellence and measurable business results.</div>
+<div class="ql-align-justify">I build full-stack applications designed to convert. From custom platforms and AI-integrated solutions to complex workflows and data-driven systems, I combine strategic design thinking with robust engineering to create experiences that turn visitors into active users and paying customers. The metric that matters: revenue impact.</div>
 
 
  
